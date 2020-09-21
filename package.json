@@ -1,0 +1,17 @@
+{
+  "name": "uop-tc-dbactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.739.0",
+    "moment": "^2.27.0",
+    "underscore": "^1.10.2",
+    "uuid": "^8.3.0"
+  }
+}
